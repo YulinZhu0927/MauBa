@@ -6,13 +6,13 @@ This paper was accepted by the 2025 IEEE Global Communications Conference (GLOBE
 While prompt-based methods have shown initial
 potential for enabling large language models (LLMs) to control
 unmanned aerial vehicles (UAVs), they suffer from limited
-flexibility, inadequate visual perception, and low code generation accuracy—often leading to hallucinated outputs due to
+flexibility, inadequate visual perception, and low code generation accuracy—often leading to hallucinated outputs due to
 static templates and rigid API wrappers. To address these
 limitations, we propose MauBa, a multi-agent coordination
 framework for zero-shot vision-language UAVs control. MauBa
 comprises three collaborative agents—Supervisor, Coder, and
 Tracker—that jointly decompose and execute natural language
-instructions. The Supervisor manages task delegation and dialogue context; the Coder utilizes a vectorized API knowledge
+instructions. The Supervisor manages task delegation and dialogue context; the Coder utilizes a vectorized API knowledge
 base with Retrieval-Augmented Generation (RAG) for precise
 code synthesis; and the Tracker performs object detection and
 spatial localization via visual grounding. Without any fine-tuning,
