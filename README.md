@@ -1,6 +1,7 @@
 # MauBa: A Multi-Agent Coordination Framework for Vision-Language-Guided Zero-Shot Control of Unmanned Aerial Vehicles
 
-This paper was accepted by the 2025 IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan.
+- (2025/07/31) 🎉Our paper was accepted by the 2025 IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan.
+- (2025/04/16) Ppaper was submitted.
 
 ## Abstract
 While prompt-based methods have shown initial
@@ -24,3 +25,4 @@ knowledge retrieval in ensuring reliable UAV decision-making.
 These findings suggest that modular multi-agent collaboration
 offers a promising pathway for scalable multimodal reasoning
 in real-world autonomous systems.
+
