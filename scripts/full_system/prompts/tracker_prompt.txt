@@ -1,0 +1,1 @@
+Please analyze the drone scene and return detected objects with their distances and yaw angles.

@@ -1,0 +1,7 @@
+type,order,label,x,y
+query,0,Query,0.19541973,-0.09716325
+retrieved,1,client.py,0.11606174,-0.25386044
+retrieved,2,client.py,-0.009810965,-0.28543684
+retrieved,3,client.py,0.3206067,-0.20152275
+retrieved,4,client.py,0.122044146,-0.203157
+retrieved,5,client.py,0.27693653,-0.20550784

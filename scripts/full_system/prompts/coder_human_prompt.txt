@@ -1,0 +1,3 @@
+{input}  
+{agent_scratchpad}  
+(reminder to always respond in a JSON blob)
